@@ -4,18 +4,18 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Prácticas</title>
+    <title>Bibliografía</title>
     <meta name="description" content="Electiva N° 188 Introducción a Octave para Ciencias Aplicadas e Ingeniería
 ">
-    <link rel="stylesheet" href="practicas_archivos/main.css">
+    <link rel="stylesheet" href="biblio_archivos/main.css">
     <link rel="canonical" href="https://introoctave.github.io/">
     <!-- <link rel="alternate" type="application/rss+xml" title="Introducción a Octave - 2018" href="https://introoctave.github.io/feed.xml" /> -->
-    <link rel="stylesheet" type="text/css" href="practicas_archivos/prettify.css">
+    <link rel="stylesheet" type="text/css" href="biblio_archivos/prettify.css">
   </head>
   <body>
     <header id="header" class="navbar navbar-default navbar-fixed-top">
-      <div class="container"> <a href="index.html" class="navbar-brand">Mecánica
-          Racional - 2018</a>
+      <div class="container" style="height: 52px;">&nbsp; <a href="index.html"
+          class="navbar-brand">Mecánica Racional - 2018</a>
         <div class="navbar-header"> <button class="navbar-toggle" type="button"
             data-toggle="collapse" data-target="#navbar-main"> <span class="icon-bar"></span>
             <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
@@ -33,19 +33,19 @@
         <!-- /.navbar-collapse --> </div>
     </header>
     <style>
-  	.bottom-three {margin-bottom: 2cm;}
-	</style>
-    <p class="bottom-three"> </p>
+  .bottom-three {
+     margin-bottom: 2cm;
+  }
+</style> <p class="bottom-three"> </p>
     <!-- <div class="site-banner"> -->
     <!--     <img src="/images/banner.jpg"></img> -->
     <!-- </div> -->
     <div class="site-content container">
       <div class="col-md-9">
-        <h1 id="introducción-a-octave">Prácticas</h1>
+        <h1 id="introducción-a-octave">Bibliografía</h1>
         <ul>
-          <li><a href="practicas_archivos/MecanicaRacionalTP1.pdf">Trabajo
-              Práctico 1 </a><br>
-          </li>
+          <li><span style="color: #18bc9c;">En el servidor de archivos de FCAI <br>
+            </span></li>
         </ul>
         <a href="https://sites.google.com/view/moccai">
           <p><br>
