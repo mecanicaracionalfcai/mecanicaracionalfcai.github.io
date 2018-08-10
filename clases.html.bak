@@ -4,13 +4,13 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Prácticas</title>
+    <title>Clases</title>
     <meta name="description" content="Electiva N° 188 Introducción a Octave para Ciencias Aplicadas e Ingeniería
 ">
-    <link rel="stylesheet" href="practicas_archivos/main.css">
+    <link rel="stylesheet" href="clases_archivos/main.css">
     <link rel="canonical" href="https://introoctave.github.io/">
     <!-- <link rel="alternate" type="application/rss+xml" title="Introducción a Octave - 2018" href="https://introoctave.github.io/feed.xml" /> -->
-    <link rel="stylesheet" type="text/css" href="practicas_archivos/prettify.css">
+    <link rel="stylesheet" type="text/css" href="clases_archivos/prettify.css">
   </head>
   <body>
     <header id="header" class="navbar navbar-default navbar-fixed-top">
@@ -33,21 +33,17 @@
         <!-- /.navbar-collapse --> </div>
     </header>
     <style>
-  	.bottom-three {margin-bottom: 2cm;}
-	</style>
+	 .bottom-three {margin-bottom: 2cm;}
+  	 </style>
     <p class="bottom-three"> </p>
-    <!-- <div class="site-banner"> -->
-    <!--     <img src="/images/banner.jpg"></img> -->
-    <!-- </div> -->
     <div class="site-content container">
       <div class="col-md-9">
-        <h1 id="introducción-a-octave">Prácticas</h1>
+        <h1 id="introducción-a-octave">Clases</h1>
+        <a href="clases_archivos/P-TB-10-Mecanica%20Racional.pdf"> </a>
         <ul>
-          <li><a href="practicas_archivos/MecanicaRacionalTP1.pdf">Trabajo
-              Práctico 1 <br>
-            </a></li>
-          <li><a href="file:///home/user/mecanicaracionalfcai.github.io/practicas_archivos/MecanicaRacionalTP2.pdf"><span
-                style="color: #18bc9c;">Trabajo Práctico 2</span></a></li>
+          <a href="clases_archivos/P-TB-10-Mecanica%20Racional.pdf"> </a>
+          <li><a href="clases_archivos/P-TB-10-Mecanica%20Racional.pdf">Programa
+              de Mecánica Racional</a></li>
         </ul>
         <a href="https://sites.google.com/view/moccai">
           <p><br>
