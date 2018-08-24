@@ -49,21 +49,8 @@
           <li><a href="practicas_archivos/MecanicaRacionalTP2%28v1_1%29.pdf"><span
                 style="color: #18bc9c;">Trabajo Práctico 2</span></a></li>
           <li><span style=" color: #18bc9c;"><a href="practicas_archivos/MecanicaRacionalTP3.pdf">Trabajo
-                Práctico 3</a></span></li>
-          <li><span style="  color: #18bc9c;">Trabajo Practico 4</span></li>
-          <ul>
-            <li><a href="practicas_archivos/ResortesAcoplados.pdf"><span style="   color: #18bc9c;">Resolución
-                  del ejercicio 1</span></a></li>
-            <ul>
-              <li><a href="practicas_archivos/ResortesAcoplados.zip"><span style="    color: #18bc9c;">Notebook
-                    Jupyter</span></a></li>
-              <li><a href="practicas_archivos/modoSim.mp4"><span style="     color: #18bc9c;">Video
-                    simulación: oscilación, modo simétrico</span></a></li>
-              <li><span style="      color: #18bc9c;"><a href="practicas_archivos/modoAsim.mp4">Video
-                    simulacioń: oscilacióń, modo asimétrico</a><br>
-                </span></li>
-            </ul>
-          </ul>
+                Práctico 3</a><br>
+            </span></li>
         </ul>
         <a href="https://sites.google.com/view/moccai">
           <p><br>
